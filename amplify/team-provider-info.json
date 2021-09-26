@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bandhubver20-dev-202044-authRole",
+      "UnauthRoleArn": "arn:aws:iam::065125513144:role/amplify-bandhubver20-dev-202044-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::065125513144:role/amplify-bandhubver20-dev-202044-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-bandhubver20-dev-202044-deployment",
+      "UnauthRoleName": "amplify-bandhubver20-dev-202044-unauthRole",
+      "StackName": "amplify-bandhubver20-dev-202044",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:065125513144:stack/amplify-bandhubver20-dev-202044/ccee9c30-1ebb-11ec-9097-0ead9c7fd213",
+      "AmplifyAppId": "dflwaygp7t6kx"
+    }
+  },
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bandhubver20-prod-202248-authRole",
+      "UnauthRoleArn": "arn:aws:iam::065125513144:role/amplify-bandhubver20-prod-202248-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::065125513144:role/amplify-bandhubver20-prod-202248-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-bandhubver20-prod-202248-deployment",
+      "UnauthRoleName": "amplify-bandhubver20-prod-202248-unauthRole",
+      "StackName": "amplify-bandhubver20-prod-202248",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:065125513144:stack/amplify-bandhubver20-prod-202248/14dbd940-1ebc-11ec-8b71-0a2e2ddd9335",
+      "AmplifyAppId": "dflwaygp7t6kx"
+    }
+  }
+}
