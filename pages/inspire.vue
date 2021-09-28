@@ -1,6 +1,7 @@
 <template>
   <section align="center" v-if="!userInfo">
     <v-btn @click="signin">Login(Google)</v-btn>
+    <h1>こっちはインスパイアだからだめなの？</h1>
   </section>
   <section align="center" v-else>
     <v-avatar size="160">
