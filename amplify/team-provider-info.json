@@ -10,6 +10,17 @@
       "StackName": "amplify-bandhubver20-dev-202044",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:065125513144:stack/amplify-bandhubver20-dev-202044/ccee9c30-1ebb-11ec-9097-0ead9c7fd213",
       "AmplifyAppId": "dflwaygp7t6kx"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dflwaygp7t6kx",
+          "type": "cicd"
+        }
+      },
+      "auth": {
+        "bandhubver20de3657b4": {}
+      }
     }
   },
   "prod": {
@@ -23,6 +34,17 @@
       "StackName": "amplify-bandhubver20-prod-202248",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:065125513144:stack/amplify-bandhubver20-prod-202248/14dbd940-1ebc-11ec-8b71-0a2e2ddd9335",
       "AmplifyAppId": "dflwaygp7t6kx"
+    },
+    "categories": {
+      "auth": {
+        "bandhubver20de3657b4": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dflwaygp7t6kx",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
