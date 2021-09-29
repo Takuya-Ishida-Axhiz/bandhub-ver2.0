@@ -9,7 +9,7 @@
     <v-text-field readonly v-model="sub" />
     <v-text-field readonly v-model="name" />
     <v-text-field readonly v-model="email" />
-    <v-btn @click="signout">Logout</v-btn>
+    <v-btn @click="signout">Logあうと</v-btn>
   </section>
 </template>
 <script>
